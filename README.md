@@ -1,8 +1,8 @@
 # <p align="center">Jiro Devs</p>
 
 <p align="center">
-	<a href="https://github.com/JiroDevs">
-	<img src="https://i.pinimg.com/564x/bd/9d/9c/bd9d9c8ecfd85af9be562c7b34ec73ca.jpg" width = "200" alt="JD">
+	<a href="https://github.com/zpsado">
+	<img src="https://media.discordapp.net/attachments/954926012725092423/956024686578384946/e32d972f4a1865cac36b5835865bec98.png" width = "200" alt="JD">
 	</a>
 </p>
 
@@ -15,7 +15,6 @@ name   = ['Linh']
 age    = ['16']
 gender = ['Female <3']
 code   = ['CSS | Python | HTML | C#']
-print(f'{name} | {age} | {gender} | {code}
 
 ```
 
