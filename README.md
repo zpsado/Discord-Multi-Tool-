@@ -1,4 +1,4 @@
-# <p align="center">Jiro Devs</p>
+# <p align="center">Linh <3</p>
 
 <p align="center">
 	<a href="https://github.com/zpsado">
